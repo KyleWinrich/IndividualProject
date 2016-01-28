@@ -1,3 +1,4 @@
-# IndividualProject
+# Steam Inventory Value Tracker (Tentative name)
 
-Project will probably be something to do with an online spell book for DnD or a sort of MyMovies to watch list.
+I buy and sell items on Steam all the time. I always want to know if I'm getting the best price for my items and how much I am making (or losing).
+My website will allow users to add information about items they have purchased and then compare their purchase to the current steam market.
