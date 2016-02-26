@@ -3,10 +3,12 @@
 * Figure out web site topic
 * Build out timelog, journal, and readme
 * Finish any undone class work
+
 ###Week 2
 * Complete web topic problem statement
 * Complete Basic Design Wireframes
 * Finish any undone class work
+
 ###Week 3
 * Come up with basic Wireframe
 * Finish undone class work
