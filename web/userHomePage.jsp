@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <jsp:include page="head.jsp"/>
+<body role="document">
 <jsp:include page="navBar.jsp"/>
-<body>
 
+    Add user Overview stats here.
 </body>
 <jsp:include page="contentEnd.jsp"/>
 <jsp:include page="footer.jsp"/>

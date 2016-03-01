@@ -8,8 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <jsp:include page="head.jsp"/>
+<body role="document">
 <jsp:include page="navBar.jsp"/>
-<body>
+
     <form action="j_security_check" method="POST">
         <table>
             <tr><td>User Name: <input type="text" name="j_username"></td></tr>

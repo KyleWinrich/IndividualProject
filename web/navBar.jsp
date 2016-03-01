@@ -50,5 +50,11 @@
 
     <div class="collapse navbar-collapse">
         <!-- snip -->
+        <ul class="nav navbar-nav">
+            <li id="index"><a href="index.jsp">Home</a></li>
+            <li id="signIn"><a href="signIn.jsp">Sign In</a></li>
+            <li id="signUp"><a href="signUp.jsp">Sign Up</a></li>
+
+        </ul>
     </div>
 </nav>
