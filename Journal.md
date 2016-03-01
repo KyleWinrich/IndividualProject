@@ -9,7 +9,7 @@ Week 2 -
 Week 3 -
 
 * Worked on class Assignment
-* Continuted to work on the Project (at least a little)
+* Continued to work on the Project (at least a little)
 
 Week 4 -
 
@@ -25,5 +25,5 @@ Week 5 -
 
 Week 6 - 
 
-* Continueing to figure out how SOAP actually works
+* Continuing to figure out how SOAP actually works
 * Tried to catch up on project work (didn't catch up at all)
