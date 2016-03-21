@@ -8,7 +8,7 @@
             org.hibernate.dialect.MySQL5Dialect
         </property>
         <property name="connection.url">
-            jdbc:mysql://localhost:3306/sample
+            jdbc:mysql://localhost:3306/steamInventoryTracker
         </property>
         <property name="connection.driver_class">
             com.mysql.jdbc.Driver
@@ -19,8 +19,12 @@
         <property name="connection.password">
             admin
         </property>
-        <mapping resource="Employee.hbm.xml" />
-        <mapping class="edu.madisoncollege.entjava.entity.Employee" />
+        <mapping resource="User.hbm.xml" />
+        <mapping class="com.kwinrich.inventoryTracker.entity.User" />
+        <mapping resource="UserInventory.hbm.xml"/>
+        <mapping class="com.kwinrich.inventoryTracker.entity.UserInventory"/>
+        <mapping resource="UserRoles.hbm.xml"/>
+        <mapping class="com.kwinrich.inventoryTracker.entity.UserRoles"/>
     </session-factory>
 
 </hibernate-configuration>

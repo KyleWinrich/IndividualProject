@@ -4,28 +4,20 @@
         "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-    <class name="edu.madisoncollege.entjava.entity.Employee" table="employees">
+    <class name="com.kwinrich.inventoryTracker.entity.User" table="users">
         <meta attribute="class-description">
             This class contains the employee detail.
         </meta>
 
         <!--Add id for the key -->
-        <id name="id" type="int"
-            column="emp_id">
+        <id name="userName" type="string"
+            column="user_name">
             <generator class="native"/>
         </id>
         <!--Add a property for all other instance variables/columns-->
-        <property name="firstName" column="first_name"
+        <property name="password" column="user_pass"
                   type="string"/>
-        <property name="lastName" column="last_name"
-                  type="string"/>
-        <property name="ssn" column="ssn"
-                  type="string"/>
-        <property name="dept" column="dept"
-                  type="string"/>
-        <property name="room" column="room"
-                  type="string"/>
-        <property name="phone" column="phone"
+        <property name="email" column="email"
                   type="string"/>
 
     </class>
