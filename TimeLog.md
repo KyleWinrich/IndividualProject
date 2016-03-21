@@ -9,3 +9,5 @@
 | 2/15/2016 | Completed Code Reviews for classmates | .75 hours |
 | 2/21/2016 | Finished in class Exercise for Week 5 | 6 hours |
 | 2/29/2016 | Add basic jsps for individual project | 2 hours |
+| Week 8/Spring Break | Struggled to get Daos working and tried to figure out Bootstrap | 8 hours |
+

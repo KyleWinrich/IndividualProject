@@ -40,16 +40,35 @@
 * Keep up to date on Individual project. 
 
 ###Week 9
-* Finish any undone classwork
+* Continue to work on group project
+* Build out web pages individual project
 
 ###Week 10
+* Finish up group project
+* Continue to work on web pages and actually add login features
 * Finish any undone classwork
 
 ###Week 11
+* Present/Continue group project
+* Add full database functionality to website
 * Finish any undone classwork
 
 ###Week 12
+* Present Group project
+* Try to finish up anything that needs to be done
 * Finish any undone classwork
 
 ###Week 13
+* Try to finish up anything that needs to be done
+* Write Test Code
 * Finish any undone classwork
+
+###Week 14
+* Finish any undone classwork
+* Write Test Code
+
+### Week 15
+* Wrap up project/present
+
+### Week 16
+* Present project
